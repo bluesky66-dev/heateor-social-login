@@ -1,0 +1,1792 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Heateor Social Login\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-04 23:37+0530\n"
+"PO-Revision-Date: 2021-04-08 13:26+0530\n"
+"Last-Translator: Heateor <hello@heateor.com>\n"
+"Language-Team: Heateor <hello@heateor.com>\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-heateor-social-login-admin.php:78
+msgid "Click to toggle help"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:132
+msgid "Thanks for installing Heateor Social Login plugin"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:134
+msgid "Configure the Plugin"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:144
+msgid ""
+"Update \"Social Login Buttons\" add-on to version 1.2.10 or above for "
+"compatibility with the current version of Heateor Social Login"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:206
+msgid "Add-Ons"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:207
+msgid "Support Documentation"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:208
+#, fuzzy
+msgid "Settings"
+msgstr "Configurações"
+
+#: ../admin/class-heateor-social-login-admin.php:366
+msgid ""
+"Specify Facebook App ID and Secret in <strong>Heateor Social Login</strong> "
+"section in admin panel for Facebook Login to work"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:369
+msgid ""
+"Specify Twitter Consumer Key and Secret in <strong>Heateor Social Login</"
+"strong> section in admin panel for Twitter Login to work"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:372
+msgid ""
+"Specify LinkedIn Client ID and Secret in <strong>Heateor Social Login</"
+"strong> section in admin panel for LinkedIn Login to work"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:375
+msgid ""
+"Specify Google Client ID and Secret in <strong>Heateor Social Login</strong> "
+"section in admin panel for Google Login to work"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:378
+msgid ""
+"Specify Vkontakte Application ID and Secret Key in <strong>Heateor Social "
+"Login</strong> section in admin panel for Vkontakte Login to work"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:381
+msgid ""
+"Specify Steam API Key in <strong>Heateor Social Login</strong> section in "
+"admin panel for Steam Login to work"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:384
+msgid ""
+"Specify Line Client ID and Secret in <strong>Heateor Social Login</strong> "
+"section in admin panel for Line Login to work"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:387
+msgid ""
+"Specify Twitch Client ID and Secret in <strong>Heateor Social Login</strong> "
+"section in admin panel for Twitch Login to work"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:390
+msgid ""
+"Specify Reddit Client ID and Secret in <strong>Heateor Social Login</strong> "
+"section in admin panel for Reddit Login to work"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:393
+msgid ""
+"Specify Foursquare Client ID and Secret in <strong>Heateor Social Login</"
+"strong> section in admin panel for Foursquare Login to work"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:396
+msgid ""
+"Specify Disqus Client ID and Secret in <strong>Heateor Social Login</strong> "
+"section in admin panel for Disqus Login to work"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:399
+msgid ""
+"Specify Dropbox Client ID and Secret in <strong>Heateor Social Login</"
+"strong> section in admin panel for Dropbox Login to work"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:402
+msgid ""
+"Specify Discord Client ID and Secret in <strong>Heateor Social Login</"
+"strong> section in admin panel for Discord Login to work"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:405
+msgid ""
+"Specify Stack Overflow Client ID and Secret in <strong>Heateor Social Login</"
+"strong> section in admin panel for Stack Overflow Login to work"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:408
+msgid ""
+"Specify Amazon Client ID and Secret in <strong>Heateor Social Login</strong> "
+"section in admin panel for Amazon Login to work"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:424
+#, fuzzy
+msgid "Settings saved"
+msgstr "Configurações salvas"
+
+#: ../admin/class-heateor-social-login-admin.php:424
+#, fuzzy
+msgid "Dismiss this notice"
+msgstr "Dispense este aviso"
+
+#: ../admin/class-heateor-social-login-admin.php:557
+#: ../admin/partials/heateor-social-login-options-page.php:20
+#: ../admin/partials/heateor-social-login-options-page.php:1861
+msgid "GDPR"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:560
+msgid ""
+"I agree to my personal data being stored and used as per Privacy Policy and "
+"Terms and Conditions"
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:564
+msgid ""
+"I revoke my consent to store and use my personal data. Kindly delete my "
+"personal data saved in this website."
+msgstr ""
+
+#: ../admin/class-heateor-social-login-admin.php:573
+#, fuzzy
+msgid "Social Avatar"
+msgstr "Avatar Social"
+
+#: ../admin/class-heateor-social-login-admin.php:576
+#, fuzzy
+msgid "Small Avatar Url"
+msgstr "Url para Avatar pequeno"
+
+#: ../admin/class-heateor-social-login-admin.php:580
+#, fuzzy
+msgid "Large Avatar Url"
+msgstr "Url para Avatar Grande"
+
+#: ../admin/class-heateor-social-login-admin.php:584
+#, fuzzy
+msgid ""
+"Do not fetch and update social avatar from my profile, next time I Social "
+"Login"
+msgstr ""
+"Não busque ou atualize o avatar social do meu perfil, na próxima vez farei a "
+"Autenticação Social"
+
+#: ../admin/class-heateor-social-login-admin.php:588
+#, fuzzy
+msgid "Update social avatar, next time I Social Login"
+msgstr "Atualize o avatar social, na próxima vez farei a Autenticação Social"
+
+#: ../admin/partials/heateor-social-login-about.php:4
+#, fuzzy
+msgid "About"
+msgstr "Sobre"
+
+#: ../admin/partials/heateor-social-login-about.php:4
+#, fuzzy
+msgid "Version"
+msgstr "Versão"
+
+#: ../admin/partials/heateor-social-login-about.php:6
+msgid "by"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-about.php:17
+msgid "Donate"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-about.php:23
+msgid "Support Forum"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-about.php:29
+msgid "Translate Plugin"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-about.php:35
+msgid "Add-ons"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-about.php:40
+msgid "Need Quick Help?"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-about.php:42
+#, fuzzy
+msgid ""
+"If you <strong>have any query</strong>, need help regarding <strong>plugin "
+"setup</strong>, want <strong>custom features</strong> in the plugin or "
+"<strong>have any suggestion</strong> to improve the plugin, just drop an "
+"email at <a href=\"mailto:support@heateor.com\">support@heateor.com</a>"
+msgstr ""
+"Se você <strong>tem alguma questão</strong>, necessita de ajuda com relação "
+"a <strong>configuração do plugin</strong>, deseja <strong>características "
+"particulares</strong> no plugin ou <strong>tem qualquer sugestão</strong> "
+"para melhorar o plugin, apenas mande um email para <a href=\\\"mailto:"
+"support@heateor.com\\\">support@heateor.com</a>"
+
+#: ../admin/partials/heateor-social-login-about.php:47
+msgid "Testimonial"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-about.php:49
+msgid ""
+"You can send us testimonial at <a href=\"mailto:testimonials@heateor.com"
+"\">testimonials@heateor.com</a>"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-about.php:54
+#, fuzzy
+msgid "Support Us"
+msgstr "Ajude-nos"
+
+#: ../admin/partials/heateor-social-login-about.php:57
+#: ../admin/partials/heateor-social-login-about.php:60
+#: ../admin/partials/heateor-social-login-about.php:61
+#: ../admin/partials/heateor-social-login-about.php:62
+#: ../admin/partials/heateor-social-login-about.php:63
+#: ../admin/partials/heateor-social-login-about.php:64
+#, fuzzy
+msgid "Rate 5-star"
+msgstr "Pontue como 5-strelas"
+
+#: ../admin/partials/heateor-social-login-options-page.php:7
+#: ../admin/partials/heateor-social-login-options-page.php:2042
+#, php-format
+msgid ""
+"You can appreciate the effort put in this free plugin by rating it <a href="
+"\"%s\" target=\"_blank\">here</a> and help us continue the development of "
+"this plugin by purchasing the premium add-ons and plugins <a href=\"%s\" "
+"target=\"_blank\">here</a>"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:16
+#: ../admin/partials/heateor-social-login-options-page.php:33
+#, fuzzy
+msgid "Basic Configuration"
+msgstr "Configuração Básica"
+
+#: ../admin/partials/heateor-social-login-options-page.php:18
+msgid "Advanced Configuration"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:22
+#: ../admin/partials/heateor-social-login-options-page.php:2014
+#, fuzzy
+msgid "Shortcode & Widget"
+msgstr "Shortcode & Widget"
+
+#: ../admin/partials/heateor-social-login-options-page.php:24
+#: ../admin/partials/heateor-social-login-options-page.php:2026
+#, fuzzy
+msgid "FAQ"
+msgstr "P&R"
+
+#: ../admin/partials/heateor-social-login-options-page.php:37
+msgid "Customize Social Login Icons"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:42
+#, fuzzy
+msgid "Disable user registration via Social Login"
+msgstr "Desabilitar o registro de usuários via Autenticação Social"
+
+#: ../admin/partials/heateor-social-login-options-page.php:53
+#, fuzzy
+msgid ""
+"After enabling this option, new users will not be able to login through "
+"social login. Only existing users will be able to social login. "
+msgstr ""
+"Após habilitar esta opção, novos usuários não serão mais aptos a se "
+"autenticar através da autenticação social. Apenas usuários existentes "
+"estarão habilitados para autenticação social."
+
+#: ../admin/partials/heateor-social-login-options-page.php:62
+#, fuzzy
+msgid "Redirection url"
+msgstr "Url de redireção"
+
+#: ../admin/partials/heateor-social-login-options-page.php:73
+#, fuzzy
+msgid ""
+"User will be redirected to this page after unsuccessful registration attempt "
+"via Social Login. You can specify the url of registration form or of a page "
+"showing message regarding disabled registration through Social Login. "
+msgstr ""
+"Usuários serão redirecionados para esta página após tentativa falha da "
+"Autenticação Social. Você pode especificar a url do formulário de registro "
+"ou da página exibindo mensagem de falha na Autenticação Social."
+
+#: ../admin/partials/heateor-social-login-options-page.php:81
+msgid "Disable Social Login for admin accounts"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:91
+msgid ""
+"After enabling this option, administrator users will not be able to login "
+"through social login. Other users will be able to login via social login."
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:98
+msgid "Select Social Networks"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:104
+#, fuzzy
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../admin/partials/heateor-social-login-options-page.php:108
+#, fuzzy
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../admin/partials/heateor-social-login-options-page.php:112
+#, fuzzy
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../admin/partials/heateor-social-login-options-page.php:116
+#, fuzzy
+msgid "Google"
+msgstr "Como integrar o Google Analytics com compartilhamento?"
+
+#: ../admin/partials/heateor-social-login-options-page.php:120
+#, fuzzy
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+#: ../admin/partials/heateor-social-login-options-page.php:124
+msgid "Steam"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:128
+msgid "Line"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:132
+msgid "Stack Overflow"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:136
+msgid "Amazon"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:140
+msgid "Discord"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:144
+#, fuzzy
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../admin/partials/heateor-social-login-options-page.php:148
+msgid "Dribbble"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:152
+msgid "Twitch"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:156
+msgid "Mail.ru"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:160
+msgid "Dropbox"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:164
+msgid "Reddit"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:168
+#, fuzzy
+msgid "Disqus"
+msgstr "Rótulo para guia de Comentário Disqus"
+
+#: ../admin/partials/heateor-social-login-options-page.php:172
+msgid "Foursquare"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:176
+msgid "Kakao"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:180
+msgid "Github"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:184
+msgid "Spotify"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:188
+msgid "Yahoo"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:192
+msgid "Wordpress"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:196
+msgid "Windows Live"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:205
+#, fuzzy
+msgid "Select Social ID provider to enable in Social Login"
+msgstr ""
+"Selecione o provedor Social pelo seu ID para habilitar a autenticação social"
+
+#: ../admin/partials/heateor-social-login-options-page.php:213
+#, fuzzy
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: ../admin/partials/heateor-social-login-options-page.php:224
+#, fuzzy, php-format
+msgid ""
+"Required for Facebook Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Facebook App ID"
+msgstr ""
+"Requerido para a Autenticação Social do Facebook funcionar. Por favor, siga "
+"a documentação em <a href=\\\"%s\\\" target=\\\"_blank\\\">neste link</a> "
+"para obter o Facebook App ID"
+
+#: ../admin/partials/heateor-social-login-options-page.php:226
+#: ../admin/partials/heateor-social-login-options-page.php:248
+msgid ""
+"Paste following url in <strong>Site URL</strong> option mentioned at the link"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:235
+msgid "Facebook App Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:246
+#, php-format
+msgid ""
+"Required for Facebook Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Facebook App Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:257
+#, fuzzy
+msgid "Twitter API Key"
+msgstr "Twitter API Key"
+
+#: ../admin/partials/heateor-social-login-options-page.php:268
+#, fuzzy, php-format
+msgid ""
+"Required for Twitter Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Twitter API Key"
+msgstr ""
+"Requirido para a Autenticação Social do Twitter funcionar. Por favor, siga a "
+"documentação <a href=\\\"%s\\\" target=\\\"_blank\\\">neste link link</a> "
+"para obter Twitter API Key"
+
+#: ../admin/partials/heateor-social-login-options-page.php:270
+#: ../admin/partials/heateor-social-login-options-page.php:297
+msgid ""
+"Paste following url in <strong>Website URL</strong> option mentioned at the "
+"link"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:274
+#: ../admin/partials/heateor-social-login-options-page.php:301
+msgid ""
+"Paste following url in <strong>Callback URLs</strong> option mentioned at "
+"the link"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:284
+#, fuzzy
+msgid "Twitter API Secret"
+msgstr "Segredo API Twitter"
+
+#: ../admin/partials/heateor-social-login-options-page.php:295
+#, fuzzy, php-format
+msgid ""
+"Required for Twitter Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Twitter API Secret"
+msgstr ""
+"Requerido para a Autenticação Social do Twitter funcionar. Por favor siga a "
+"documentação <a href=\\\"%s\\\" target=\\\"_blank\\\">neste link</a> para "
+"obter o segredo da API Twitter"
+
+#: ../admin/partials/heateor-social-login-options-page.php:310
+msgid "LinkedIn Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:321
+#, php-format
+msgid ""
+"Required for LinkedIn Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get LinkedIn Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:323
+#: ../admin/partials/heateor-social-login-options-page.php:345
+msgid ""
+"Paste following url in <strong>Redirect URLs</strong> option mentioned at "
+"the link"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:332
+msgid "LinkedIn Client Secret "
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:343
+#, php-format
+msgid ""
+"Required for LinkedIn Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get LinkedIn Client "
+"Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:354
+msgid "Google Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:365
+#, php-format
+msgid ""
+"Required for Google Social Login to work. Please follow the documentation at "
+"<a href=\"%s\" target=\"_blank\">this link</a> to get Google Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:367
+#: ../admin/partials/heateor-social-login-options-page.php:390
+msgid ""
+"Paste following url in <strong>AUTHORIZED REDIRECT URI</strong> option "
+"mentioned at the link"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:377
+msgid "Google Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:388
+#, php-format
+msgid ""
+"Required for Google Social Login to work. Please follow the documentation at "
+"<a href=\"%s\" target=\"_blank\">this link</a> to get Google Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:399
+#, fuzzy
+msgid "Vkontakte Application ID"
+msgstr "Vkontakte Application ID"
+
+#: ../admin/partials/heateor-social-login-options-page.php:410
+#: ../admin/partials/heateor-social-login-options-page.php:432
+#, fuzzy, php-format
+msgid ""
+"Required for Vkontakte Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Vkontakte "
+"Application ID"
+msgstr ""
+"Requirido para Autenticação Social Vkontakte funcionar. Por favor siga a "
+"documentação <a href=\\\"%s\\\" target=\\\"_blank\\\">neste link</a> para "
+"obter Vkontakte Application ID"
+
+#: ../admin/partials/heateor-social-login-options-page.php:412
+#: ../admin/partials/heateor-social-login-options-page.php:434
+msgid ""
+"Paste following url in <strong>Site address</strong> option mentioned at the "
+"link"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:421
+msgid "Vkontakte Secure key"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:444
+msgid "Steam API Key"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:455
+#, php-format
+msgid ""
+"Required for Steam Social Login to work. Get it at <a href=\"%s\" target="
+"\"_blank\">this link</a>"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:456
+msgid "Save following <strong>domain</strong> to get the key"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:464
+msgid "Line Channel ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:475
+#: ../admin/partials/heateor-social-login-options-page.php:497
+#, php-format
+msgid ""
+"Required for Line Social Login to work. Please follow the documentation at "
+"<a href=\"%s\" target=\"_blank\">this link</a> to get it"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:477
+#: ../admin/partials/heateor-social-login-options-page.php:499
+#: ../admin/partials/heateor-social-login-options-page.php:521
+#: ../admin/partials/heateor-social-login-options-page.php:542
+#: ../admin/partials/heateor-social-login-options-page.php:838
+#: ../admin/partials/heateor-social-login-options-page.php:859
+#: ../admin/partials/heateor-social-login-options-page.php:927
+#: ../admin/partials/heateor-social-login-options-page.php:949
+#: ../admin/partials/heateor-social-login-options-page.php:972
+#: ../admin/partials/heateor-social-login-options-page.php:993
+#: ../admin/partials/heateor-social-login-options-page.php:1251
+msgid ""
+"Paste following url in <strong>Callback URL</strong> option mentioned at the "
+"link"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:486
+msgid "Line Channel Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:509
+msgid "Twitch Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:519
+#, php-format
+msgid ""
+"Required for Twitch Social Login to work. Please follow the documentation at "
+"<a href=\"%s\" target=\"_blank\">this link</a> to get Twitch Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:530
+msgid "Twitch Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:540
+#, php-format
+msgid ""
+"Required for Twitch Social Login to work. Please follow the documentation at "
+"<a href=\"%s\" target=\"_blank\">this link</a> to get Twitch Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:553
+msgid "Stack Overflow Client Id"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:563
+#, php-format
+msgid ""
+"Required for Stack Overflow Social Login to work. Please follow the "
+"documentation at <a href=\"%s\" target=\"_blank\">this link</a> to get Stack "
+"Overflow Client Id"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:570
+msgid "Stack Overflow App Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:580
+#, php-format
+msgid ""
+"Required for Stack Overflow Social Login to work. Please follow the "
+"documentation at <a href=\"%s\" target=\"_blank\">this link</a> to get Stack "
+"Overflow Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:587
+msgid "Stack Overflow Key"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:597
+#, php-format
+msgid ""
+"Required for Stack Overflow Social Login to work. Please follow the "
+"documentation at <a href=\"%s\" target=\"_blank\">this link</a> to get Stack "
+"Overflow App Key"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:606
+msgid "Amazon Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:616
+#, php-format
+msgid ""
+"Required for Amazon Social Login to work. Please follow the documentation at "
+"<a href=\"%s\" target=\"_blank\">this link</a> to get Amazon Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:618
+#: ../admin/partials/heateor-social-login-options-page.php:639
+msgid ""
+"Paste following url in <strong>Allowed Return URLs</strong> option mentioned "
+"at the link"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:627
+msgid "Amazon Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:637
+#, php-format
+msgid ""
+"Required for Amazon Social Login to work. Please follow the documentation at "
+"<a href=\"%s\" target=\"_blank\">this link</a> to get Amazon Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:650
+msgid "Discord Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:660
+#, php-format
+msgid ""
+"Required for Discord Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Discord Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:662
+#: ../admin/partials/heateor-social-login-options-page.php:683
+msgid ""
+"Paste following url in <strong>Redirects</strong> option mentioned at the "
+"link"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:671
+msgid "Discord Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:681
+#, php-format
+msgid ""
+"Required for Discord Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Discord Client "
+"Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:694
+msgid "Dropbox App Key"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:704
+#, php-format
+msgid ""
+"Required for Dropbox Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Dropbox App Key"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:706
+#: ../admin/partials/heateor-social-login-options-page.php:727
+#: ../admin/partials/heateor-social-login-options-page.php:1015
+#: ../admin/partials/heateor-social-login-options-page.php:1036
+#: ../admin/partials/heateor-social-login-options-page.php:1058
+#: ../admin/partials/heateor-social-login-options-page.php:1079
+#: ../admin/partials/heateor-social-login-options-page.php:1101
+#: ../admin/partials/heateor-social-login-options-page.php:1122
+#: ../admin/partials/heateor-social-login-options-page.php:1144
+#: ../admin/partials/heateor-social-login-options-page.php:1165
+#: ../admin/partials/heateor-social-login-options-page.php:1187
+#: ../admin/partials/heateor-social-login-options-page.php:1208
+#: ../admin/partials/heateor-social-login-options-page.php:1230
+msgid ""
+"Paste following url in <strong>Redirect URIs</strong> option mentioned at "
+"the link"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:715
+msgid "Dropbox App Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:725
+#, php-format
+msgid ""
+"Required for Dropbox Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Dropbox App Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:738
+msgid "Reddit Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:748
+#, php-format
+msgid ""
+"Required for Reddit Social Login to work. Please follow the documentation at "
+"<a href=\"%s\" target=\"_blank\">this link</a> to get Reddit Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:750
+#: ../admin/partials/heateor-social-login-options-page.php:771
+msgid ""
+"Paste following url in <strong>Redirect Uri</strong> option mentioned at the "
+"link"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:759
+msgid "Reddit Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:769
+#, php-format
+msgid ""
+"Required for Reddit Social Login to work. Please follow the documentation at "
+"<a href=\"%s\" target=\"_blank\">this link</a> to get Reddit Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:782
+msgid "Mail.ru Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:792
+#, php-format
+msgid ""
+"Required for Mail.ru Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Mail.ru Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:794
+#: ../admin/partials/heateor-social-login-options-page.php:815
+msgid ""
+"Paste following url in the <strong>All redirect_uri</strong> option "
+"mentioned at the link"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:803
+msgid "Mail.ru Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:813
+#, php-format
+msgid ""
+"Required for Mail.ru Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Mail.ru Client "
+"Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:826
+msgid "Disqus Public Key"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:836
+#, php-format
+msgid ""
+"Required for Disqus Social Login to work. Please follow the documentation at "
+"<a href=\"%s\" target=\"_blank\">this link</a> to get Disqus Public Key"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:847
+msgid "Disqus Secret Key"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:857
+#, php-format
+msgid ""
+"Required for Disqus Social Login to work. Please follow the documentation at "
+"<a href=\"%s\" target=\"_blank\">this link</a> to get Disqus Secret Key"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:870
+msgid "Foursquare Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:880
+#, php-format
+msgid ""
+"Required for Foursquare Social Login to work. Please follow the "
+"documentation at <a href=\"%s\" target=\"_blank\">this link</a> to get "
+"Foursquare Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:882
+#: ../admin/partials/heateor-social-login-options-page.php:903
+msgid ""
+"Paste following url in <strong>Redirect URL</strong> option mentioned at the "
+"link"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:891
+msgid "Foursquare Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:901
+#, php-format
+msgid ""
+"Required for Foursquare Social Login to work. Please follow the "
+"documentation at <a href=\"%s\" target=\"_blank\">this link</a> to get "
+"Foursquare Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:914
+msgid "Kakao Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:925
+#: ../admin/partials/heateor-social-login-options-page.php:947
+#, php-format
+msgid ""
+"Required for Kakao Social Login to work. Please follow the documentation at "
+"<a href=\"%s\" target=\"_blank\">this link</a> to get it"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:936
+msgid "Kakao Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:959
+msgid "Github Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:970
+#: ../admin/partials/heateor-social-login-options-page.php:991
+#, php-format
+msgid ""
+"Required for Github Social Login to work. Please follow the documentation at "
+"<a href=\"%s\" target=\"_blank\">this link</a> to get it"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:980
+msgid "Github Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1003
+msgid "Wordpress Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1013
+#, php-format
+msgid ""
+"Required for Wordpress Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Wordpress Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1024
+msgid "Wordpress Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1034
+#, php-format
+msgid ""
+"Required for Wordpress Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Wordpress Client "
+"Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1046
+msgid "Spotify Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1056
+#, php-format
+msgid ""
+"Required for Spotify Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Spotify Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1067
+msgid "Spotify Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1077
+#, php-format
+msgid ""
+"Required for Spotify Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Spotify Client "
+"Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1089
+msgid "Yahoo Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1099
+#, php-format
+msgid ""
+"Required for Yahoo Social Login to work. Please follow the documentation at "
+"<a href=\"%s\" target=\"_blank\">this link</a> to get Yahoo Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1110
+msgid "Yahoo Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1120
+#, php-format
+msgid ""
+"Required for Yahoo Social Login to work. Please follow the documentation at "
+"<a href=\"%s\" target=\"_blank\">this link</a> to get Yahoo Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1132
+msgid "Dribbble Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1142
+#, php-format
+msgid ""
+"Required for Dribbble Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Dribbble Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1153
+msgid "Dribbble Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1163
+#, php-format
+msgid ""
+"Required for Dribbble Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Dribbble Client "
+"Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1175
+msgid "Instagram Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1185
+#, php-format
+msgid ""
+"Required for Instagram Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Instagram Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1196
+msgid "Instagram Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1206
+#, php-format
+msgid ""
+"Required for Instagram Social Login to work. Please follow the documentation "
+"at <a href=\"%s\" target=\"_blank\">this link</a> to get Instagram Client "
+"Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1218
+msgid "Microsoft Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1228
+#, php-format
+msgid ""
+"Required for Windows Live Social Login to work. Please follow the "
+"documentation at <a href=\"%s\" target=\"_blank\">this link</a> to get "
+"Microsoft Client ID"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1239
+msgid "Microsoft Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1249
+#, php-format
+msgid ""
+"Required for Windows Live Social Login to work. Please follow the "
+"documentation at <a href=\"%s\" target=\"_blank\">this link</a> to get "
+"Microsoft Client Secret"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1260
+#, fuzzy
+msgid "Include Javascript in website footer"
+msgstr "Incluir Javascript no rodapé do website"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1270
+msgid ""
+"Load Javascript file(s) of plugin in the footer of website (recommended)"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1277
+#, fuzzy
+msgid "Delete all the options on plugin deletion"
+msgstr "Remove todas as opções na remoção do pluguin"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1288
+#, fuzzy
+msgid ""
+"If enabled, plugin options will get deleted when plugin is deleted/"
+"uninstalled and you will need to reconfigure the options when you install "
+"the plugin next time. "
+msgstr ""
+"Se havilitado, as opções do plugin serão removidas quando o plugin é "
+"removido/desistalado e você necessitará reconfigurar as opções quando você "
+"instalar o plugin da próxima vez."
+
+#: ../admin/partials/heateor-social-login-options-page.php:1296
+#, fuzzy
+msgid "Custom CSS"
+msgstr "CSS Personalizado"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1307
+#, fuzzy
+msgid "You can specify any additional CSS rules ( without &lt;style&gt; tag)"
+msgstr ""
+"Você poderá especificar qualquer regra adicional de CSS (sem a tag &lt;"
+"style&gt; )"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1313
+#: ../admin/partials/heateor-social-login-options-page.php:1852
+#: ../admin/partials/heateor-social-login-options-page.php:2002
+#, fuzzy
+msgid "Save Changes"
+msgstr "Salvar Alterações"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1325
+msgid "Social Login Options"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1331
+#: ../admin/partials/heateor-social-login-options-page.php:1736
+#, fuzzy
+msgid "Title"
+msgstr "Título"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1342
+#, fuzzy
+msgid "Text to display above the Social Login interface"
+msgstr "Texto exibido acima da interface de Autenticação Social"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1350
+msgid "Trigger social login in the same browser tab"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1361
+msgid "Trigger social login in the same browser tab instead of a popup window"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1369
+msgid "Center align icons"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1380
+msgid "Center align social login icons"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1388
+#, fuzzy
+msgid "Enable at login page"
+msgstr "Habilia a página de autenticação"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1399
+#, fuzzy
+msgid ""
+"Social Login interface will get enabled at the login page of your website"
+msgstr ""
+"Interface de Autenticação Social será habilitada na página de autenticação "
+"do seu website"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1407
+#, fuzzy
+msgid "Enable at register page"
+msgstr "Habilitar página de registro"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1418
+#, fuzzy
+msgid ""
+"Social Login interface will get enabled at the registration page of your "
+"website"
+msgstr ""
+"Interface de Autenticação Social será habilitada na página de registro de "
+"seu website"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1426
+#, fuzzy
+msgid "Enable at comment form"
+msgstr "Habilitar no formulário de comentário"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1437
+#, fuzzy
+msgid "Social Login interface will get enabled at your Wordpress Comment form"
+msgstr ""
+"Interface de Autenticação Social será habilitada em seu formulário de "
+"comentários Wordpress"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1451
+#, fuzzy
+msgid "Enable before WooCommerce Customer Login Form"
+msgstr "Habilido antes do formulário de autenticação do WooCommerce"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1461
+#, fuzzy
+msgid ""
+"Social Login Interface will get enabled before the customer login form at "
+"WooCommerce My Account page"
+msgstr ""
+"Interface de Autenticação Social será habilitada antes do formulário de "
+"autenticação de cliente na página Minha Conta do WooCommerce"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1469
+#, fuzzy
+msgid "Enable at WooCommerce Customer Login Form"
+msgstr "Habilido antes do formulário de autenticação do WooCommerce"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1479
+msgid ""
+"Integrate Social Login Interface with the customer login form at WooCommerce "
+"My Account page"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1487
+msgid "Enable at WooCommerce Customer Register Form"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1497
+msgid ""
+"Integrate Social Login Interface with the customer register form at "
+"WooCommerce My Account page"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1505
+#, fuzzy
+msgid "Enable at WooCommerce checkout page"
+msgstr "Habilitado na página de checkout do WooCommerce"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1515
+#, fuzzy
+msgid "Social Login Interface will get enabled at WooCommerce checkout page"
+msgstr ""
+"Interface de Autenticação Social será habilitada página de checkout do "
+"WooCommerce"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1526
+#, fuzzy
+msgid "Auto-approve comments made by Social Login users"
+msgstr ""
+"Aprovação automática de comentários feito pelo usuário de Autenticação Social"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1536
+#, fuzzy
+msgid ""
+"If this option is enabled, and WordPress comment is made by Social Login "
+"user, comment will get approved immediately without keeping in moderation. "
+msgstr ""
+"Se esta opção está habilitada e um cometário WordPress é feito por um "
+"usuário de Autenticação social, o comentário será aprovado imediatamente sem "
+"considerações de moderação."
+
+#: ../admin/partials/heateor-social-login-options-page.php:1537
+#, fuzzy
+msgid "Note: This is not related to Facebook comments"
+msgstr "Note: Isto não está relacionado com comentários do Facebook"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1547
+#, fuzzy
+msgid "Enable social avatar"
+msgstr "Habilitar o avatar social"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1558
+#, fuzzy
+msgid ""
+"Social profile pictures of the logged in user will be displayed as profile "
+"avatar"
+msgstr ""
+"Fotogragia do perfil social do usuário autenticado será exibido como avatar "
+"do perfil"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1566
+#, fuzzy
+msgid "Avatar quality"
+msgstr "Qualidade do Avatar"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1570
+#, fuzzy
+msgid "Average"
+msgstr "Média"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1571
+#, fuzzy
+msgid "Best"
+msgstr "Melhor"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1578
+#, fuzzy
+msgid "Choose avatar quality"
+msgstr "Escolha a qualidade do avatar"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1587
+#, fuzzy
+msgid ""
+"Show option for users to update social avatar at BuddyPress profile page"
+msgstr ""
+"Exibir opção para os usuários atualizarem o avatar social na página do "
+"perfil do BuddyPress"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1597
+#, fuzzy
+msgid ""
+"If enabled, users would be able to update their social avatar from \"Profile "
+"photo\" section in BuddyPress profile at front-end"
+msgstr ""
+"Se habilitado, usuários serão capazes de atualizar seus avatar social pela "
+"seção \\\"Foto do perfil\\\" no front-end do perfil BuddyPress"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1608
+#: ../public/class-heateor-social-login-public.php:2346
+#, fuzzy
+msgid "Email required"
+msgstr "Necessário email"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1620
+#, fuzzy
+msgid ""
+"If enabled and Social ID provider does not provide user's email address on "
+"login, user will be asked to provide his/her email address. Otherwise, a "
+"dummy email will be generated"
+msgstr ""
+"Se habilitado e o provedor do Social ID não fornece o endereço de email do "
+"usuário na autenticação, ao usuário será solicitado fornecer seu endereço de "
+"email. Do contrário, um email postiço será gerado"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1629
+msgid "Send post-registration email to user to set account password"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1640
+#, fuzzy
+msgid ""
+"If enabled, an email will be sent to user after registration through Social "
+"Login, regarding his/her login credentials (username-password to be able to "
+"login via traditional login form)"
+msgstr ""
+"Se habilitado, um email será enviado após o registro via Autenticação "
+"Social, com respeito as credecial do usuário para autenticação (username-"
+"senha para possibilitar a autenticação via formulário tradicional)"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1648
+msgid "Send new user registration notification email to admin"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1659
+msgid ""
+"If enabled, an email will be sent to admin after new user registers through "
+"Social Login, notifying admin about the new user registration"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1667
+#, fuzzy
+msgid "Login redirection"
+msgstr "Redireção de autenticação"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1672
+#, fuzzy
+msgid "Same page where user logged in"
+msgstr "Mesma página onde o usuário autenticou-se"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1674
+#: ../admin/partials/heateor-social-login-options-page.php:1705
+#, fuzzy
+msgid "Homepage"
+msgstr "Homepage"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1676
+#: ../admin/partials/heateor-social-login-options-page.php:1707
+#, fuzzy
+msgid "Account dashboard"
+msgstr "Painel da Conta"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1679
+#: ../admin/partials/heateor-social-login-options-page.php:1710
+#, fuzzy
+msgid "BuddyPress profile page"
+msgstr "Página de perfil BuddyPress"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1682
+#: ../admin/partials/heateor-social-login-options-page.php:1713
+#, fuzzy
+msgid "Custom Url"
+msgstr "Url Personalizada"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1690
+#, fuzzy
+msgid "User will be redirected to the selected page after Social Login"
+msgstr ""
+"O usuário será redirecionado para a página selcionada de Autenticação Soocial"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1698
+#, fuzzy
+msgid "Registration redirection"
+msgstr "Redirecionamento de registro"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1703
+#, fuzzy
+msgid "Same page from where user registered"
+msgstr "Mesma página de onde o usuário se registrou"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1721
+#, fuzzy
+msgid ""
+"User will be redirected to the selected page after registration ( first "
+"Social Login ) through Social Login"
+msgstr ""
+"O usuário será redirecionado para a página selecionada após o registro "
+"(primeira Autenticação Social) através da Autenticação Social"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1730
+msgid "Social Account Linking Options"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1747
+msgid "Text to display above the Social Account Linking interface"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1754
+msgid ""
+"Link social account to already existing account, if email address matches"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1765
+msgid ""
+"If email address of the user's Social Account matches with an already "
+"existing account at your website, that social account will be linked to "
+"existing account. User would be able to manage this from Social Account "
+"Linking interface at their profile page. "
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1774
+#, fuzzy
+msgid "Enable social account linking at BuddyPress profile page"
+msgstr "Habilitar conta social associada à página de perfil no BuddyPress"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1784
+#, fuzzy
+msgid ""
+"Enable this option to show social account linking interface at BuddyPress "
+"profile page"
+msgstr ""
+"Habilitar estar opção para exibir a conta social associada a página de "
+"interface de perfil do BuddyPress"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1796
+#, fuzzy
+msgid "Email popup options"
+msgstr "Opções de popup de email"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1802
+#, fuzzy
+msgid "Text on 'Email required' popup"
+msgstr "Texto popup de 'Email requerido'"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1813
+#, fuzzy
+msgid ""
+"This text will be displayed on email required popup. Leave empty if not "
+"required. "
+msgstr ""
+"Este texto será exibido no popup de requisição de email. Deixe em branco se "
+"o email não for requerido."
+
+#: ../admin/partials/heateor-social-login-options-page.php:1822
+#, fuzzy
+msgid "Error message for 'Email required' popup"
+msgstr "Mensagem de erro para popup de 'Email requerido'"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1833
+#, fuzzy
+msgid ""
+"This message will be displayed to user if it provides invalid or already "
+"registered email"
+msgstr ""
+"Esta mensagem será exibida para o usuário se ele fornecer um email inválido "
+"ou já registrado"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1841
+#, fuzzy
+msgid ""
+"If enabled, email provided by the user will be verified by sending a "
+"confirmation link to that email. User would not be able to login without "
+"verifying his/her email"
+msgstr ""
+"Se habilitado, o email fornecido pelo usuário será verificado pelo envio de "
+"um link de confirmação para aquele email. O usuário não poderá se autenticar "
+"antes de validar seu email"
+
+#: ../admin/partials/heateor-social-login-options-page.php:1867
+msgid "Enable GDPR opt-in"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1878
+msgid ""
+"Enable it to show GDPR opt-in for social login and social account linking"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1887
+msgid "Placement of GDPR opt-in"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1892
+msgid "Above Social Login icons"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1894
+msgid "Below Social Login icons"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1900
+msgid "Placement of GDPR opt-in above or below the social login icons"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1908
+msgid "Opt-in text"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1919
+msgid "Text for the GDPR opt-in"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1926
+msgid "Text to link to Terms-Conditions page"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1937
+msgid "Word(s) in the opt-in text to be linked to terms-conditions page"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1945
+msgid "Terms-Conditions Url"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1956
+msgid "Url of the terms-conditions page of your website"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1964
+msgid "Text to link to Privacy Policy page"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1975
+msgid "Word(s) in the opt-in text to be linked to privacy policy page"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1983
+msgid "Privacy Policy Url"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:1994
+msgid "Url of the privacy policy page of your website"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:2016
+#, fuzzy
+msgid "Social Login Shortcode & Widget"
+msgstr "Autenticação Social Shortcode & Widget"
+
+#: ../admin/partials/heateor-social-login-options-page.php:2028
+msgid ""
+"<strong>Note:</strong> Plugin will not work on local server. You should have "
+"an online website for the plugin to function properly. "
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:2030
+msgid "Why is social login not working?"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:2031
+msgid ""
+"Make sure that App ID and Secret (Client ID and Secret ) keys you have "
+"saved, belong to the same app"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:2033
+msgid "More"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:2048
+msgid "Instagram Shoutout"
+msgstr ""
+
+#: ../admin/partials/heateor-social-login-options-page.php:2050
+msgid ""
+"If you can send ( to hello@heateor.com) how our plugin is helping your "
+"business, we can share it on Instagram. You can also send any relevant "
+"hashtags and people to mention in the Instagram post. "
+msgstr ""
+
+#: ../heateor-social-login.php:39
+msgid "Login with your Social ID"
+msgstr ""
+
+#: ../heateor-social-login.php:40
+#, fuzzy
+msgid "Email you entered is already registered or invalid"
+msgstr "Email fornecido já está registrado ou é inválido"
+
+#: ../heateor-social-login.php:45
+#, fuzzy
+msgid "Please enter a valid email address. You might be required to verify it"
+msgstr ""
+"Por favor forneça um endereço de email válido. Você pode ser solicitado a "
+"confirmá-lo"
+
+#: ../heateor-social-login.php:49
+#, fuzzy
+msgid "Link your social account to login to your account at this website"
+msgstr "Associe sua conta social ao login de sua conta neste website"
+
+#: ../includes/class-heateor-social-login-shortcodes.php:67
+#: ../includes/class-heateor-social-login-widgets.php:62
+#, fuzzy
+msgid "Log Out"
+msgstr "Desautenticar"
+
+#: ../includes/class-heateor-social-login-widgets.php:21
+msgid "Heateor Social Login"
+msgstr ""
+
+#: ../includes/class-heateor-social-login-widgets.php:23
+msgid ""
+"Let your website users login/register using their social media accounts on "
+"Facebook, Twitter, Google, Linkedin etc"
+msgstr ""
+
+#: ../includes/class-heateor-social-login-widgets.php:98
+msgid "Login with your Social Account"
+msgstr ""
+
+#: ../includes/class-heateor-social-login-widgets.php:109
+msgid "Title (before login):"
+msgstr ""
+
+#: ../includes/class-heateor-social-login-widgets.php:111
+msgid "Title (after login):"
+msgstr ""
+
+#: ../includes/class-heateor-social-login-widgets.php:113
+#, fuzzy
+msgid "Before widget content:"
+msgstr "Antes do conteúdo do widget:"
+
+#: ../includes/class-heateor-social-login-widgets.php:115
+#, fuzzy
+msgid "After widget content:"
+msgstr "Depois do conteúdo do widget:"
+
+#: ../includes/class-heateor-social-login-widgets.php:118
+#, fuzzy
+msgid "Hide for logged in users:"
+msgstr "Escondido para usuários autenticados:"
+
+#: ../public/class-heateor-social-login-public.php:102
+msgid "Email address is not valid"
+msgstr ""
+
+#: ../public/class-heateor-social-login-public.php:105
+msgid "This email already exists. Please specify another email"
+msgstr ""
+
+#: ../public/class-heateor-social-login-public.php:114
+#: ../public/class-heateor-social-login-public.php:2965
+#, fuzzy
+msgid "Email"
+msgstr "Opções de popup de email"
+
+#: ../public/class-heateor-social-login-public.php:116
+#: ../public/class-heateor-social-login-public.php:2967
+msgid "Submit"
+msgstr ""
+
+#: ../public/class-heateor-social-login-public.php:1201
+msgid "Enable CURL at your website server to use Mail.ru Social Login."
+msgstr ""
+
+#: ../public/class-heateor-social-login-public.php:1578
+msgid ""
+"cURL is not enabled at your website server. Please contact your website "
+"server administrator to enable it. "
+msgstr ""
+
+#: ../public/class-heateor-social-login-public.php:1616
+#, php-format
+msgid ""
+"Enter exactly the following url in <strong>Website</strong> option in your "
+"Twitter app ( see step 3 %s )"
+msgstr ""
+
+#: ../public/class-heateor-social-login-public.php:1619
+#, php-format
+msgid ""
+"Enter exactly the following url in <strong>Callback URLs</strong> option in "
+"your Twitter app ( see step 3 %s )"
+msgstr ""
+
+#: ../public/class-heateor-social-login-public.php:1622
+#, fuzzy
+msgid ""
+"Make sure cURL is enabled at your website server. You may need to contact "
+"the server administrator of your website to verify this"
+msgstr ""
+"Certifique que a cURL esteja habilitada no seu servidor web. Você poderá ter "
+"que contatar o administrador do servidor do seu website para verificar isso."
+
+#: ../public/class-heateor-social-login-public.php:2097
+#, fuzzy
+msgid "Social Account Linking"
+msgstr ""
+"Habilitar estar opção para exibir a conta social associada a página de "
+"interface de perfil do BuddyPress"
+
+#: ../public/class-heateor-social-login-public.php:2177
+#, fuzzy
+msgid "Account linked successfully"
+msgstr "Conta associada com sucesso"
+
+#: ../public/class-heateor-social-login-public.php:2181
+#, fuzzy
+msgid "Account already exists or linked"
+msgstr "Conta já existente ou já está associada"
+
+#: ../public/class-heateor-social-login-public.php:2258
+#: ../public/class-heateor-social-login-public.php:2264
+#, fuzzy
+msgid "Currently"
+msgstr "Atualmente"
+
+#: ../public/class-heateor-social-login-public.php:2258
+#: ../public/class-heateor-social-login-public.php:2264
+msgid "Connected with"
+msgstr ""
+
+#: ../public/class-heateor-social-login-public.php:2258
+#: ../public/class-heateor-social-login-public.php:2264
+#, fuzzy
+msgid "Remove"
+msgstr "Remover"
+
+#: ../public/class-heateor-social-login-public.php:2324
+#, fuzzy
+msgid "Please verify your email address to login. "
+msgstr "Por favor verifique seu endereço de email no login."
+
+#: ../public/class-heateor-social-login-public.php:2324
+#, fuzzy
+msgid "Your email has been verified. Now you can login to your account"
+msgstr "Seu email foi verificado. Agora você pode fazer login na sua conta"
+
+#: ../public/class-heateor-social-login-public.php:2328
+#, fuzzy
+msgid "Notification"
+msgstr "Notificaçao"
+
+#: ../public/class-heateor-social-login-public.php:2349
+#, fuzzy
+msgid "Please check your email inbox to complete the registration. "
+msgstr "Por favor verifique sua caixa de email para completar o registro."

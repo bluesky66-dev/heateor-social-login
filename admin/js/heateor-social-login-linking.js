@@ -1,0 +1,1 @@
+function heateorSlUnlink(e,t){jQuery(e).after('<img id="heateor_sl_loading_image" src="'+heateorSlLoadingImgPath+'" />');jQuery(e).remove();jQuery.ajax({type:"POST",dataType:"json",url:heateorSlAjaxUrl,data:{action:"heateor_sl_unlink",provider:t},success:function(e,t,n){if(e.status==1){location.href=heateorSlLinkingRedirection}}})}
